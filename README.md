@@ -41,6 +41,12 @@ I am a 3rd-year BTech CSE student who builds for clarity. While the world can of
 
 <div align="center">
   <img src="https://github-readme-stats-psi-eight-57.vercel.app/api?username=Staggered95&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&ring_color=8b5cf6&title_color=8b5cf6" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Staggered95&theme=tokyonight&hide_border=true&background=0f172a&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6" alt="GitHub Streak" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://github-readme-stats-psi-eight-57.vercel.app/api/top-langs/?username=Staggered95&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=8b5cf6" alt="Top Languages" width="48%" />
 </div>
 
