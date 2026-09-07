@@ -11,7 +11,7 @@
 <br />
 
 ### ⚡ Initialization Sequence
-I am a 3rd-year BTech CSE student who builds for clarity. While the world can often seem devoid of inherent meaning, I find absolute purpose in the process: **copy, understand, create anew, and learn**. Whether I am locked into a 6-hour focus session engineering dockerized PERN applications, writing bash scripts to automate my Android workflow, or spending 140 hours ricing Arch Linux from scratch, my philosophy remains the same—relentless dedication to the craft. 
+I am a 4th-year BTech CSE student who builds for clarity. While the world can often seem devoid of inherent meaning, I find absolute purpose in the process: **copy, understand, create anew, and learn**. Whether I am locked into a 6-hour focus session engineering dockerized PERN applications, writing bash scripts to automate my Android workflow, or spending 140 hours ricing Arch Linux from scratch, my philosophy remains the same—relentless dedication to the craft. 
 
 <br />
 
